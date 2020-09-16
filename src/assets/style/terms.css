@@ -23,6 +23,7 @@ p{
     flex-direction: row;
     align-items:flex-end;
     
+    
 }
 .ref-img{
     height: 40%;
@@ -40,8 +41,9 @@ p{
 }
 button{
     border-radius: 50px !important;
-    height: 50px;
-    width: auto;
+    height: 40px;
+    width: 150px !important;
     color: #4E44D8 !important;
     background: white !important;
+   
 }

@@ -99,6 +99,8 @@
        <p>No term contained in this Agreement may be changed or waived, except in writing signed by an expressly authorized representative of the Company. No waiver of default by either party under any of the Terms or Conditions of this Agreement shall be construed as a waiver of any prior or subsequent default of any of the Terms or Conditions of this Agreement.</p>
        <p><strong>LAST AMENDED:</strong> 10th December, 2018</p>
 
+        
+
         <div class="ref">
                 <div class="ref-img">
                     <img class="ref-img" src="../assets/refer-footer1.svg" alt="">
