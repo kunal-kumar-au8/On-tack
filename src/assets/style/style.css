@@ -1,0 +1,47 @@
+.vision,.mission,.affordable{
+    padding: 10px;
+    height: 100vh;
+    width: 100vw;
+}
+.vision-img,.mission-img,.affordable-img,.vision-text,.mission-text,.affordable-text{
+    padding: 50px;
+}
+img{
+    height: 80%;
+    width: auto;
+}
+.h1-text{
+    padding-top: 100px;
+    text-align: left;
+    font-size: 30px;
+    font-weight: 600;
+}
+.p-text{
+    padding-top: 30px;
+    text-align: left;
+}
+.ref{
+    height: auto;
+    width: 100%;
+    background: #4E44D8;;
+    display: flex;
+    flex-direction: row;
+    align-items:flex-end;
+    
+}
+.ref-img{
+    height: 40%;
+    width: 40%;
+}
+.ref-text{
+    padding: 20px;
+    color: white;
+}
+.ref-btn{
+    padding: 55px;
+}
+button{
+    border-radius: 50px;
+    color: #4E44D8 !important;
+    background: white;
+}
