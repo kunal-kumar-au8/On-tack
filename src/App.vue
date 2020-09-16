@@ -2,16 +2,20 @@
   <div id="app">
     <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-    <aboutus/>
+    <!-- <Aboutus/> -->
+    <Terms/>
+  
   </div>
 </template>
 
 <script>
-import Aboutus from './components/About_us.vue'
+// import Aboutus from './components/About_us.vue'
+import Terms  from './components/TermsandCondition.vue'
 export default {
   name: 'App',
   components: {
-    Aboutus
+    // Aboutus,
+    Terms
   }
 }
 </script>

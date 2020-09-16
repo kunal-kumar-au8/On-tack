@@ -1,0 +1,128 @@
+<template>
+    <div class="container">
+        <h2>
+            Terms of use
+        </h2>
+        <p>
+        <strong>1. GENERAL CONDITION OF USE </strong>
+        </p>
+        <p>
+            These Terms of Use govern Your use of this Website and other services provided by Ontrack Technologies Pvt. Ltd. (the “Services“).These Terms of Use, together with our Privacy Policy, and Disclaimer and any other terms specifically referred to in any of those documents, constitute a legally binding agreement (the “Agreement“) between You and On Track Technologies Pvt. Ltd. in relation to Your use of this Website and Services (together, the “Platform“).
+        </p>
+        <p>
+        <strong>Defined Terms </strong>
+        </p>
+        <p>
+            1.1. “Ontrack Technologies Private Limited” (hereinafter referred as the “Company“) is a private limited company registered in the state of Karnataka, India. The registered address of the Company is 91 Springboard, #351, 3rd &amp; 4th Floor, Salarpuria Tower – 1, Hosur Road, Koramangala, Bengaluru – 560095.
+        </p>
+        <p>1.2. “Conditions” mean these General Conditions of Use, to carry on the business of letting on hire or otherwise, motor cycle and other vehicles of every kind and description, on such terms and conditions as may be decided by the Company from time to time.</p>
+        <p>1.3. “Service” refers to any service provided by the Company, as the Company deems fit, to any User.</p>
+        <p>1.4. “User” means a person who has accepted the terms and conditions for leasing or renting a motorcycle or motor vehicle of any kind from the Company.</p>
+        <p>1.5. “Vehicle” means the motorcycle/ motorbike/ scooter or motor vehicle of any kind offered by the Company to any User for leasing/renting for the period as determined between the Company and the User.</p>
+        <p>1.6. These Conditions are intended to create binding rights and obligations between the User and the Company in accordance with the Indian Contract Act, 1872. The Company reserves the right to change the terms of these Conditions from time to time. No access to the Services will be permitted unless the Conditions are accepted in full. No User is entitled to accept only part of the Conditions. If a User does not agree to the Conditions, such User may not use the Services. If any Member fails to comply with any of the Conditions, the Company reserves the right, at its own discretion, to suspend or withdraw all Services to that User without notice.</p>
+
+        <p><strong>2. USE OF THE VEHICLE</strong></p>
+
+        <p><strong>2.1. User Information:</strong> The User who approaches the Company for taking the Vehicle agrees to provide any personal information requested by the Company. The User will be required to provide their first name, last name, age, title, valid telephone number, alternate telephone number, residential address, office address and email address. Use of the Vehicle and the Service of the Company is limited to those over the age of 18 years at the time of registration.</p>
+        <p><strong>2.2. Disclosure of Purpose:</strong> The User agrees to disclose the duration for renting the Vehicle and reason for leasing/renting out the Vehicle to the Company.</p>
+        <p><strong>2.3. Accuracy of the Information:</strong> The User agrees and accepts that all the information they provide to the Company before using the Service of the Company and at any other time shall be true, correct, complete and accurate in all respects. The User also agrees that any information supplied to the Company in connection with the duration or any trip or reason of use of the Vehicle will be true, accurate and complete.</p>
+        <p><strong>2.4. Valid license:</strong> The User must possess a valid Motor Vehicle with Gear (MVWG) License in case of Motor Vehicles with Gear and Motor Vehicle without Gear (MVWOG) License in case of Motor Vehicles without Gear. The User shall submit a copy of the License to the Company. If any User’s license expires or be revoked, authorization to drive the Vehicle shall expire immediately.</p>
+        <p><strong>2.5. Submission of Original Documents:</strong> The User shall submit the photocopy of one of the following documents to the Company before leasing/renting the Vehicle:</p>
+        <p>2.5.1. Passport</p>
+        <p>2.5.2. Aadhar Card</p>
+        <p>2.5.3. Pan Card</p>
+
+        <p><strong>2.6. Rental Charges:</strong> The rental rate offered by the Company to the User is as per what is shown on the website. There are no hourly charges and the rental rate is inclusive of unlimited kilometers of usage. The minimum tenure of booking a Vehicle from the Company is 30 days.</p>
+        <p><strong>2.7. Helmets (Included in Rental Charges):</strong> One helmet is provided by the Company with the Vehicle. The User is encouraged to bring their own helmets for comfort and style. Helmets for the User as well as for pillion are a mandatory requirement by law; hence the User shall ensure that the pillion rider is wearing a Helmet during the use of the Vehicle. The User has the responsibility to follow the law related to wearing of helmet for the rider as well as the pillion and is liable to pay any fines/costs that are incurred due to violation of such law. If the helmet is found cracked or broken at the time of returning the bike, a penalty charge of Rs. 300 will be levied.</p>
+        <p><strong>2.8. Fuel Cost:</strong> Fuel costs are the User’s responsibility. The Company is not liable or responsible for the motorcycle fuel consumption.</p>
+        <p><strong>2.9. Security Deposit:</strong> The User is not liable to pay any security deposit for using the Vehicle for the duration of leasing/renting the Vehicle.</p>
+        <p><strong>2.10. Advance Payment:</strong> The User shall make the payment of the entire rental charge (as per the duration of the booking) in advance, before using the Vehicle. In case the User wishes to extend the period of booking the Vehicle, the User must make the additional payment prior to the end of the tenure to continue the use of the Vehicle. The User can pay the Company through the payment gateway or transfer to the bank account via NEFT/RTGS Transfer.</p>
+        <p><strong>2.11. Late fee:</strong> The Vehicle must be returned no later than the end date of the booking. Should a Vehicle be returned late or payment has been received late for extension of the booking, the User will be responsible for late fees of up to Rs 100/day along with the rental amount of a daily.</p>
+        <p><strong>2.12. Documents to be provided to the User:</strong> The User shall be provided a copy of the motorbike registration certificate, the permit to operate within the state boundaries &amp; comprehensive insurance.</p>
+        <p><strong>2.13. Permitted area of usage of the Vehicle:</strong> The Vehicle is provided for usage within the state of Karnataka India. The User cannot take the Vehicle outside the state boundary without prior permission from the Company. In case any User takes the Vehicle outside the state boundary without prior permission, the contract of usage would be terminated immediately, and the User needs to return the Vehicle immediately back to the Company. There would be no refund of the Rental Charges already made, and the User has sole responsibility for all costs, charges, fees and expenses incurred by the Company because of a breach of this condition. Shall the user be allowed to cross the state boundary, he/ she will be liable to pay the necessary taxes.</p>
+        <p>2.13.1. if the vehicle is impounded outside the state boundaries for whatsoever be the reason, the user will be liable to repossess the vehicle and get it back to the drop location.</p>
+        <p>2.13.2. if the vehicle meets with an accident outside of State boundaries, the User will be required to inform the local authorities of the same.</p>
+        <p><strong>2.14. Refund Policy:</strong> All confirmed bookings with the Company are non-refundable, and no refund is available for early return of the Vehicle.</p>
+        <p><strong>2.15. GPS Tracking of the Vehicle and Penalty:</strong> Each Vehicle will be tracked with a GPS tracker by the Company. The Company ensures that the privacy of the User is not compromised in any ways. The information regarding the tracking of the Vehicle shall only be shared with the relevant authorities in case of theft/ accident/ or any other incident which happens with the Vehicle. Any misusage / detachment of GPS from the vehicle will incurred a penalty of Rs 3000 .</p>
+        <p><strong>2.16. Refund/Cancellation Policy:</strong> If the vehicle, after being booked, is cancelled by the customer prior to delivery/scheduled slot of delivery/pickup, the customer will be liable to pay a convenience fee of 15% of the booking amount.</p>
+        <p><strong>2.17. Home Delivery Radius:</strong> :&nbsp;Home deliveries will be catered to within a radius of 20 KMS from the pick-up location which is in Koramangala and chargeable as per what is displayed on the website.&nbsp;This charge is only for home delivery and the company does not entertain home pick-ups.</p>
+        <p><strong>2.18. Lost Keys:</strong> Should the user lose/damage the keys to the vehicle, a replacement key will be given at a cost of Rs. 420.</p>
+        <p><strong>2.19. <b>Vehicle Exchange:&nbsp;</b></strong>In case of issues in vehicle, first our Road side assistance provider will look into the issue, if its still not resolved, then, our on demand service partner&nbsp;will look into the issue. The TAT would be 48 hours. You can also get the issue solved through a local garage and submit the bill, same will be re-imbursed. If its still not resolved, we will do the vehicle exchange.</p>
+        <p><strong>3. PROHIBITED USES</strong></p>
+        <p>3.1. The use of the Vehicle provided by the Company is prohibited under the following conditions:</p>
+        <p>3.1.1. Any speed race or competition.</p>
+        <p>3.1.2. By any person who is under the influence of (i) alcohol or (ii) any drug or medication under the effects of which the operation of a vehicle is prohibited or not recommended. A zero- tolerance policy is adopted in such cases.</p>
+        <p>3.1.3. In the carrying out of any crime or any other illegal activity</p>
+        <p>3.1.4. In an imprudent, negligent, or abusive manner or for any abnormal use of this vehicle</p>
+        <p>3.1.5. By any person who has provided the Company with false information or whose representations are determined to be false (including, without limitation, regarding his name, age, or address)</p>
+        <p>3.1.6. For driving the Vehicle outside of permitted area or any prohibited areas within the permitted area 3.1.7. For driving while using a mobile phone or any other mobile communication device in any manner whatsoever, including while sending an SMS, emailing, using a cell phone with or without a hands-free device, otherwise using a mobile communication device that may distract the User from driving or otherwise engaging in similar activities that may be prohibited by applicable law.</p>
+        <p>3.1.8. Using the Vehicle to transport flammable, poisonous, or otherwise hazardous substances for other than legally permissible household use or in amounts greater than what is usually consumed in a household.</p>
+        <p>3.1.9. Transporting objects with the vehicle that could adversely impact the Vehicle’s handling safety or that could damage the Vehicle or, by such object/s protruding outside, affect the safety of vehicles driving near the Vehicle.</p>
+        <p>3.1.10. Transporting more than 2 passengers.</p>
+        <p>3.1.11. Usage of the vehicle is limited only to the registered user. The company shall not be liable for any loss/damage occurred to the third-party riding the vehicle. The user takes complete liability in case any damage/loss occurs due to third-party involvement.</p>
+        <p>3.2. The above-mentioned list is not exhaustive, and any unreasonable or inappropriate use of the Vehicle provided by the Company, as determined by the Company in its sole discretion, may be deemed a violation of these Conditions. The Company may report the User to the authorities any use of a Vehicle or other activities that are in violation of local, state, and/or national law or in violation of these Conditions.</p>
+        <p>3.2. The above-mentioned list is not exhaustive, and any unreasonable or inappropriate use of the Vehicle provided by the Company, as determined by the Company in its sole discretion, may be deemed a violation of these Conditions. The Company may report the User to the authorities any use of a Vehicle or other activities that are in violation of local, state, and/or national law or in violation of these Conditions.</p>
+        <p><strong>4. MAINTENANCE / VEHICLE / CONDITION / RETURN / STOLEN VEHICLES</strong></p>
+        <p>4.1. The User is responsible for securing the Vehicle during the booking period. The Vehicle must have the ignition off and handle-locked properly. User will be responsible for any fees or charges associated with a failure to perform these steps. It is advisable for our users to kick-start the vehicle once in 24 hours to avoid issues with drainage of battery.</p>
+        <p>4.2. The Company will perform all necessary and required routine maintenance on all its Vehicles. However, the User is responsible for the cleanliness of the Vehicle and is expected to assist in helping the Company to maintain the driving safety and performance of the vehicle, during longer bookings or when the vehicle indicates that service or maintenance is required.</p>
+        <p>4.3. The Company will ensure general servicing on all the vehicles. Punctures will not be taken care of by the Company.</p>
+        <p>4.4. All breakdowns or incidents involving the Vehicle provided by the Company must be reported to the Company immediately at the following number: +91 8033923788</p>
+        <p>4.5. The User must return the Vehicle, secured, clean, and in good working order to the Company at the end of the booking.</p>
+        <p>4.6. The User must also return the Helmet given by the Company in a clean state and good working condition. If the Helmet has suffered any damage, the User is liable to pay Rs. 300.</p>
+        <p>4.7. Users are required to immediately report to the Company, any condition that impairs the driving functionality of the Vehicle, such as poor driving feel or external or internal damage that renders the Vehicle unsafe, including but not limited to, missing or inoperable signal or driving lighting, broken or missing rear-view mirrors.</p>
+        <p>4.8. Prior to taking possession of a vehicle, the User must check the Vehicle, and inform the Company of any damage or abnormality encountered on the Vehicle or in the operation of the Vehicle. If the Company is not notified of a problem at the start of a booking, the User will be deemed to be responsible for any problem with the vehicle discovered or reported after the booking, including, without limitation, damage to the vehicle.</p>
+       <p>4.9. The User is solely responsible for the Vehicle while driving and any damage caused to it and must bear the repair cost at the cost of the authorized service centre.</p>
+       <p>4.10. A stolen Vehicle must be immediately reported to the Company and the nearest police station with a detailed written complaint based on the facts. The User shall ensure that such complaint shall not contain any discrepancy, inconsistencies or distortions from the truth as the same would be detrimental to a valid insurance or other claim by the Company. The User is to call 100 and receive the complaint number as soon as the vehicle is stolen to ensure that the FIR is filed at the nearest police station without any hassle. The same will need to be executed in case of accidents.</p>
+       <p>4.11. User must immediately notify and deliver to the Company every summons, complaint, document, or notice of any kind received by User in any way relating to an accident, theft, or other circumstances related to the Vehicle.</p>
+       <p><strong>5. TRAFFIC LAW/APPLICABLE LAW VIOLATIONS</strong></p>
+       <p>5.1. The User is responsible for complying with all applicable laws associated with driving the Vehicle, the Safety Standards in relation to Motor Vehicles in the jurisdiction where the trip is initiated and where the Vehicle is driven during such trip.</p>
+       <p>5.2. The User is solely responsible for any traffic violations incurred due to his/her use of a Vehicle given by the Company. This includes, but is not limited to parking, speeding, breaking red light, photo enforcement, violation of helmet wearing rules and toll violations. The User is responsible for communicating all such charges of traffic violations to the Company while submitting the Vehicle after the use, and the User is liable to pay all costs from any such violation, including fines for late payment and any processing fees added by the issuing municipality, to the respective authority in their personal capacity. The Company is not responsible to bear such costs incurred on the part of the User. The User is liable to pay all tolls and any fines for toll evasion. 5.3. The User shall forthwith pay the relevant fine/s to the authority concerned and provide the Company with the proof of such payment.</p>
+       <p>5.2. The User is solely responsible for any traffic violations incurred due to his/her use of a Vehicle given by the Company. This includes, but is not limited to parking, speeding, breaking red light, photo enforcement, violation of helmet wearing rules and toll violations. The User is responsible for communicating all such charges of traffic violations to the Company while submitting the Vehicle after the use, and the User is liable to pay all costs from any such violation, including fines for late payment and any processing fees added by the issuing municipality, to the respective authority in their personal capacity. The Company is not responsible to bear such costs incurred on the part of the User. The User is liable to pay all tolls and any fines for toll evasion. 5.3. The User shall forthwith pay the relevant fine/s to the authority concerned and provide the Company with the proof of such payment.</p>
+       <p><strong>6. INSURANCE/LIABILITY </strong></p>
+       <p>6.1. The Company shall provide primary liability protection, which is the extent of claims/ liabilities covered by the Company’s vehicle insurer, on the Vehicle for claims and/or liabilities arising out of the use or operation of the Vehicle by the User. If at any time it is determined that losses will exceed the User’s coverage provided by the Company, Member will be responsible for the excess amount and is liable to pay the excess amount to the Company.</p>
+       <p>6.1. The Company shall provide primary liability protection, which is the extent of claims/ liabilities covered by the Company’s vehicle insurer, on the Vehicle for claims and/or liabilities arising out of the use or operation of the Vehicle by the User. If at any time it is determined that losses will exceed the User’s coverage provided by the Company, Member will be responsible for the excess amount and is liable to pay the excess amount to the Company.</p>
+       <p>6.2. The User will be responsible for any associated deductible personally attributable to the User.</p>
+       <p>6.3. The Company is not responsible for any damage to, loss or theft of, any personal property belonging to the User, regardless of fault or negligence.</p>
+       <p>6.4. Indemnification: The User indemnifies and holds the Company, its parent and affiliates and their respective directors, officers, employees, shareholders, agents, attorneys, assigns and successors- in-interest, harmless for all losses, liabilities, damages, injuries, claims, demands, costs, attorney fees, and other expenses incurred by the User due to the use or possession of the Vehicle by the User and the User’s non-compliance with this agreement.</p>
+        <p>6.5. This Agreement is intended for the benefit of User and the Company and no other party may claim rights hereunder, whether as a third-party beneficiary or otherwise. Under no circumstance will the Company be liable to any third party for indirect, incidental, special or consequential damages arising from or related to this Agreement or use of the Vehicle and Service.</p>
+        <p><strong>7. INTELLECTUAL PROPERTY RIGHTS</strong></p>
+        <p>7.1. All copyright, trademarks and all other intellectual property rights (except for the third party links) in the Website and its content (including without limitation the design, layout, text, graphics, images, sound, video and all software and source codes connected with the Website) are owned by or licensed to Ontrack Technologies Pvt Ltd or otherwise used by the company as permitted by law. The content of the Website embodies trade secrets and intellectual property rights protected under copyright and other intellectual property laws. All title, ownership and intellectual property rights in the Website and its content shall remain with the Company.</p>
+        <p>7.2. None of the content may be downloaded, copied, reproduced, transmitted, stored, sold or distributed without the prior written consent of the copyright holder. This excludes the downloading, copying and/ or printing of pages of the Website for personal, non-commercial home use only.</p>
+        <p><strong>8. GOVERNING LAWS &amp; JURISDICTION</strong></p>
+        <p>This Agreement shall be governed by the laws of India and the Parties agree to subject themselves to the exclusive jurisdiction of the courts in Bangalore.</p>
+        <p><strong>9. NOTICES</strong></p>
+        <p>9.1. Any notice to the user shall be sufficiently served if sent by e-mail or registered post to the registered address provided or directly served to him or to any known agent authorized by him.</p>
+        <p>9.2. Any notice to the Company shall be sufficiently served if sent by e-mail at <span style="color: #4e44d8;"><a style="color: #4e44d8;" href="mailto:info@on-track.in">info@on-track.in</a></span> or registered post to the first address specified above or directly served on the Company or on any known agent authorized by it and notified to the Lessor as authorized to receive notices on his behalf.</p>
+        <p><strong>10. SEVERANCE</strong></p>
+       <p>If any of these Terms and Conditions should be determined to be invalid, illegal or unenforceable for any reason by any court of competent jurisdiction then such Term or Condition shall be severed, and the remaining Terms and Conditions shall survive and remain in full force and effect and continue to be binding and enforceable.</p>
+       <p><strong>11. NO WAIVER</strong></p>
+       <p>No term contained in this Agreement may be changed or waived, except in writing signed by an expressly authorized representative of the Company. No waiver of default by either party under any of the Terms or Conditions of this Agreement shall be construed as a waiver of any prior or subsequent default of any of the Terms or Conditions of this Agreement.</p>
+       <p><strong>LAST AMENDED:</strong> 10th December, 2018</p>
+
+        <div class="ref">
+                <div class="ref-img">
+                    <img class="ref-img" src="../assets/refer-footer1.svg" alt="">
+                </div>
+                <div class="ref-text">
+                    <h1 class="ref-h1">Refer a friend</h1>
+                    <p class="ref-p">Click Here To Invite Your Friend To Book A Bike And Earn 250 Ontrack Points.</p>
+                </div>
+                <div class="ref-btn">
+                    <button class="btn btn-primary" type="submit">Refer Now</button>
+                </div>
+        </div>
+
+
+        
+        
+
+
+    </div>
+</template>
+<script>
+import "../assets/style/terms.css"
+export default {
+    name:"Terms"
+    
+}
+</script>
