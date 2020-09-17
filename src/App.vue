@@ -3,19 +3,22 @@
     <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
     <!-- <Aboutus/> -->
-    <Terms/>
+    <!-- <Terms/> -->
+    <Fines/>
   
   </div>
 </template>
 
 <script>
 // import Aboutus from './components/About_us.vue'
-import Terms  from './components/TermsandCondition.vue'
+// import Terms  from './components/TermsandCondition.vue'
+import Fines from './components/Fine'
 export default {
   name: 'App',
   components: {
     // Aboutus,
-    Terms
+    // Terms
+    Fines
   }
 }
 </script>
