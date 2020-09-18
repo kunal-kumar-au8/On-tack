@@ -4,7 +4,7 @@
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
     <!-- <Aboutus/> -->
     <!-- <Terms/> -->
-    <Fines/>
+    <Privacy/>
   
   </div>
 </template>
@@ -12,13 +12,14 @@
 <script>
 // import Aboutus from './components/About_us.vue'
 // import Terms  from './components/TermsandCondition.vue'
-import Fines from './components/Fine'
+import Privacy from './components/Privacy'
 export default {
   name: 'App',
   components: {
     // Aboutus,
     // Terms
-    Fines
+    // Fines
+    Privacy
   }
 }
 </script>
