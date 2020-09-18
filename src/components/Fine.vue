@@ -3,11 +3,13 @@
         <h2>Fine</h2>
         <div class="Fine">
                     
-                <h1>PoliceFineDetailsList</h1>
+                <h1>Police Fine Details List</h1>
                 <ol v-if="list.length">
                     <li v-for="(i,index) in list" v-bind:key="index">
                         {{i.FineAmount}}
                     </li>
+                    
+
                 </ol>
                   
               
