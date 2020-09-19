@@ -101,19 +101,7 @@
 
         
 
-        <div class="ref">
-                <div class="ref-img">
-                    <img class="ref-img" src="../assets/refer-footer1.svg" alt="">
-                </div>
-                <div class="ref-text">
-                    <h1 class="ref-h1">Refer a friend</h1>
-                    <p class="ref-p">Click Here To Invite Your Friend To Book A Bike And Earn 250 Ontrack Points.</p>
-                </div>
-                <div class="ref-btn">
-                    <button class="btn btn-primary" type="submit">Refer Now</button>
-                </div>
-        </div>
-
+      
 
         
         
