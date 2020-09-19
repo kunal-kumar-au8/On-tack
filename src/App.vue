@@ -4,7 +4,7 @@
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
     <!-- <Aboutus/> -->
     <!-- <Terms/> -->
-    <Copyright/>
+    <FAQ/>
   
   </div>
 </template>
@@ -13,7 +13,8 @@
 // import Aboutus from './components/About_us.vue'
 // import Terms  from './components/TermsandCondition.vue'
 // import Disclaimer from './components/Disclaimer'
-import Copyright from './components/Copyright'
+// import Copyright from './components/Copyright'
+import FAQ from "./components/FAQ"
 export default {
   name: 'App',
   components: {
@@ -22,7 +23,8 @@ export default {
     // Fines
     // Privacy
     // Disclaimer
-    Copyright
+    // Copyright
+    FAQ 
   }
 }
 </script>
