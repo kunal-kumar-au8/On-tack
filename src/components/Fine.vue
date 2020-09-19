@@ -1,19 +1,18 @@
 <template>
     <div class="container">
-        <h2>Fine</h2>
-        <div class="Fine">
-                    
-                <h1>Police Fine Details List</h1>
-                <ol v-if="list.length">
-                    <li v-for="(i,index) in list" v-bind:key="index">
-                        {{i.FineAmount}}
-                    </li>
-                    
-
-                </ol>
-                  
-              
-           
+        <h2>On-Track</h2>
+        <h4>Police Fine</h4>
+         
+                <input type="text" v-model="searchKey"/>
+                <button v-on:click="searchVehicle">Search</button>
+        <div class="Fine">     
+               
+                <table border="1px">
+                    <tr v-for="i in list" v-bind:key="i.id">
+                        <td>{{i.ViolationDate}}</td>
+                        <td>Rs:{{i.FineAmount}}</td>
+                    </tr>
+                </table>
         </div>
     </div>
 
@@ -29,20 +28,25 @@ export default {
     data()
     {
         return{
-            list:undefined
+            list:undefined,
+            searchKey:""
+            
         }
     },
-    mounted()
+    methods:{
+        searchVehicle()
     {
-        Vue.axios.post("https://corsanywhere.herokuapp.com/https://www.karnatakaone.gov.in/PoliceCollectionOfFine/FineDetails?SearchBy=REGNO&SearchValue=KA51AF0173&ServiceCode=BPS")
+        Vue.axios.post("https://corsanywhere.herokuapp.com/https://www.karnatakaone.gov.in/PoliceCollectionOfFine/FineDetails?SearchBy=REGNO&SearchValue="+this.searchKey+"&ServiceCode=BPS")
         .then(response=>{
             
             this.list=(response.data.PoliceFineDetailsList);
+            // this.search=(response.data.PoliceFineDetailsList)
         
             console.log(response.data.PoliceFineDetailsList);
 
         })
         
     }
+}
 }
 </script>
