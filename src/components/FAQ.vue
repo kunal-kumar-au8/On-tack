@@ -1,31 +1,12 @@
 <template>
-    <div>
-            <h1>FAQ</h1>
-        <p class="faq_head_p">Most frequent questions and answers</p>
-        <div class="accordion">
-            <div class="accordion-item">
-                <div class="accordion-item-header ">
-                What is Web Development?
-                </div>
-                <div class="accordion-item-body">
-                <div class="accordion-item-body-content">
-                    Web Development broadly refers to the tasks associated with developing functional websites and applications for the Internet. The web development process includes web design, web content development, client-side/server-side scripting and network security configuration, among other tasks.
-                </div>
+        <div class="faq-container">
+            <div class="faq-question" v-on:click="toggle(index)" v-for="(item, index) in data" v-bind:key="index">
+                <div class="faq-description"><span class="faq-number">{{index + 1}}</span>{{item.question}}<span>+</span></div>
+                <div class="faq-content" style="display: none;">
+                    <p>{{item.answer}}</p>
                 </div>
             </div>
-            </div>
-            <!-- <h2>
-                FAQ
-            </h2>
-            <p>Most frequent questions and answers</p>
-            <div class="container">
-                <h2 v-for="i in data" v-bind:key="i.id">
-                    <p>{{i.question}}</p>
-                    <p>{{i.answer}}</p>
-                </h2>
-
-            </div> -->
-    </div>
+        </div>
 </template>
 <script>
 import Vue from "vue";
@@ -56,7 +37,34 @@ export default {
                         console.log(err)
                     })
                    
-            }
-    }
+            },
+
+         methods: 
+         {
+             toggle: function(num) {
+                if (this.$el.children[num].classList.contains('open')) {
+                    this.$el.children[num].classList.remove('open')
+
+                    this.$el.children[num].querySelectorAll('.faq-content')[0].style.display = 'none'
+                } 
+                else {
+                    var prevFaqQuestion = this.$el.querySelectorAll('.open')
+                    if (prevFaqQuestion.length !== 0) {
+
+                    prevFaqQuestion[0].classList.remove('open')
+
+                    prevFaqQuestion[0].querySelectorAll('.faq-content')[0].style.display = 'none'
+
+                    }
+
+                    this.$el.children[num].classList.add('open')
+                    this.$el.children[num].querySelectorAll('.faq-content')[0].style.display = ''
+
+                }
+
+    },
+  },
+        
+}
 
 </script>
