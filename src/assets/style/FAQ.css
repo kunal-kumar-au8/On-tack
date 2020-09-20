@@ -1,9 +1,22 @@
 *{
   background: #f5f5f5;
+  font-family: "Gilroy", Gilroy, Sans-serif;
 }
 .faq-head{
   height: 20vh;
-  width: 80vw;
+  /* margin-top: 50px; */
+}
+.faq-title{
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+  color: #222222;
+}
+.faq-sub{
+  color: #686868;
+  font-size: 15px;
+  text-align: center;
+  font-weight: 200;
 }
 .faq-container {
   width: 70vw;
@@ -24,7 +37,8 @@
 
 .faq-description {
   font-size: 16px;
-  color: #4a4a4a;
+  font-weight: 600;
+  color: #333333;
   letter-spacing: -1.03px;
   padding: 23px 100px 20px 40px;
   border-top: 1px solid #d1d3d4;
@@ -33,6 +47,9 @@
   -moz-transition: all 0.3s;
   transition: all 0.3s;
   cursor: pointer;
+}
+.faq-description:hover{
+  color: blue;
 }
 .faq-description span:last-child {
   cursor: pointer;
@@ -56,12 +73,12 @@
   -webkit-border-radius: 100px; */
   text-align: center;
   /* margin-right: 10px; */
-  font-size: 20px;
+  font-size: 16px;
   color: #4a4a4a;
   letter-spacing: -0.86px;
   position: absolute;
   z-index: 1;
-  top: 20px;
+  /* top: 23px; */
   left: 5px;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
@@ -69,14 +86,15 @@
   font-weight: normal;
 }
 .faq-question.open {
-  background: #f7f7f7;
+  /* background: #f7f7f7; */
 }
 .faq-question.open .faq-description {
   font-weight: 600;
+  color: blue;
 }
 .faq-question.open .faq-description .faq-number {
-  color: white;
-  background: #4a4a4a;
+  color: blue;
+  /* background: #4a4a4a; */
 }
 .faq-question.open .faq-description span:last-child {
   -moz-transform: rotate(45deg);
@@ -95,7 +113,7 @@
     padding: 0;
   }
   .content-title {
-    font-size: 28px;
+    font-size: 30px;
     text-align: center;
     font-weight: 600;
   }
