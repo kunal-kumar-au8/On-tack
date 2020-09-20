@@ -1,12 +1,21 @@
 <template>
-        <div class="faq-container">
-            <div class="faq-question" v-on:click="toggle(index)" v-for="(item, index) in data" v-bind:key="index">
-                <div class="faq-description"><span class="faq-number">{{index + 1}}</span>{{item.question}}<span>+</span></div>
+
+     
+         <div class="faq-container">
+          <div><h2>FAQ</h2>
+          <p>Most frequently asked question</p>
+          </div>
+            <div class="faq-question" v-on:click="toggle(index+1)" v-for="(item, index) in data" v-bind:key="index">
+                <div class="faq-description"><span class="faq-number">{{index + 1 }}</span>{{item.question}}<span>+</span></div>
+                 <div class="faq-question" v-on:click="toggle(index)" v-for="(item, index) in data" v-bind:key="index">
                 <div class="faq-content" style="display: none;">
                     <p>{{item.answer}}</p>
                 </div>
+                 </div>
             </div>
-        </div>
+    
+           
+        </div>          
 </template>
 <script>
 import Vue from "vue";
