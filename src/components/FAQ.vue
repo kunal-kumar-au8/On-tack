@@ -1,9 +1,9 @@
 <template>
-        <div>
-            <div class="faq-head">
+        <div >
+            <!-- <div class="faq-head">
                 <h3 class="faq-title">FAQ</h3>
                 <p class="faq-sub">Most frequent questions and answers</p>
-            </div>
+            </div> -->
         <div class="faq-container">
             <div class="faq-question" v-on:click="toggle(index)" v-for="(item, index) in data" v-bind:key="index">
                 <div class="faq-description"><span class="faq-number">{{index + 1}}.</span><strong>{{item.question}}</strong><span>+</span></div>
@@ -18,6 +18,7 @@
 import Vue from "vue";
 import VueAxios from "vue-axios";
 import axios from "axios";
+
 Vue.use(VueAxios,axios)
 import "../assets/style/FAQ.css"
 export default {
