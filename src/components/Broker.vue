@@ -11,9 +11,9 @@
           <p
             class="p-0 m-0 pt-1 no-wrap"
           >Showing entries.</p>
-          <!-- <div>
+          <div>
             <input type="text" v-model="search" placeholder="search here.." class="search ml-4" />
-          </div> -->
+          </div>
         </div>
         <div class="col-md-2 p-0 m-0 text-right d-flex justify-content-end">
           <button class="btn round" >
@@ -33,14 +33,14 @@
           <th>Jobs</th>
           <th>Tags</th>
         </tr>
-        <tr v-for="(item,index) in list" v-bind:key="item.index">
-          <td>{{index+1}}</td>
-          <td class="no-wrap">{{item.name}}</td>
-          <td>{{item.email}}</td>
-          <td>{{item.phone}}</td>
+        <tr v-for="item in list" v-bind:key="item.phone">
+          <td>1.</td>
+          <td class="no-wrap">Name</td>
+          <td>Email</td>
+          <td>Phone</td>
           <!-- <td>Alternate Phone</td> -->
-          <td>{{item.jobs}}</td>
-          <td>{{item.tags}}</td>
+          <td>Jobs</td>
+          <td>Tags</td>
           <td class="no-wrap">
             <div class="m-0 p-0">
               <button class="button btn round mr-2 m-0">
@@ -85,17 +85,14 @@ export default {
   name: "Broker",
   data()
   {
-      return{
-           list:undefined
-      }
-   
+    list:undefined
   },
   mounted()
   {
     Vue.axios.get('https://backend-bikex.herokuapp.com/api/broker')
-     .then((resp)=>{
-       this.list=resp.data
-        console.warn(resp.data)
+     .then(resp=>{
+       this.list=resp.data.data
+       console.warn(resp.data.data)
      })
   }
   
