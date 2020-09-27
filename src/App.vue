@@ -4,7 +4,7 @@
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
     <!-- <Aboutus/> -->
     <!-- <Terms/> -->
-    <FAQ/>
+    <borker/>
   
   </div>
 </template>
@@ -14,7 +14,7 @@
 // import Terms  from './components/TermsandCondition.vue'
 // import Disclaimer from './components/Disclaimer'
 // import Copyright from './components/Copyright'
-import FAQ from "./components/FAQ"
+import borker from "./components/broker"
 export default {
   name: 'App',
   components: {
@@ -24,7 +24,8 @@ export default {
     // Privacy
     // Disclaimer
     // Copyright
-    FAQ 
+    // FAQ
+    borker
   }
 }
 </script>

@@ -85,9 +85,9 @@
   transition: all 0.3s;
   font-weight: normal;
 }
-.faq-question.open {
+/* .faq-question.open { */
   /* background: #f7f7f7; */
-}
+/* } */
 .faq-question.open .faq-description {
   font-weight: 600;
   color: blue;
