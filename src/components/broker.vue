@@ -33,7 +33,7 @@
           <th>Jobs</th>
           <th>Tags</th>
         </tr>
-        <tr v-for="(item,index) in list" v-bind:key="item.index">
+        <tr v-for="(item,index,) in list" v-bind:key="item.index">
           <td>{{index+1}}</td>
           <td class="no-wrap">{{item.name}}</td>
           <td>{{item.email}}</td>
@@ -43,8 +43,9 @@
           <td>{{item.tags}}</td>
           <td class="no-wrap">
             <div class="m-0 p-0">
-              <button class="button btn round mr-2 m-0">
-                <i class="fa fa-trash-o" aria-hidden="true"></i>
+              <button v-on:click="deleteBroker(item._id,index)" class="button btn round mr-2 m-0">
+                <i class="fa fa-trash-o" aria-hidden="true">
+                </i>
               </button>
               <button class="button btn round m-0">
                 <i class="fa fa-pencil" aria-hidden="true"></i>
@@ -86,10 +87,27 @@ export default {
   data()
   {
       return{
-           list:undefined
+           list:undefined,
+           editBroker:null
       }
    
   },
+  methods:{
+    deleteBroker(_id,index){
+      Vue.axios.delete('https://backend-bikex.herokuapp.com/api/broker/'+ _id) 
+     .then((resp)=>{
+       this.list.splice(index,1);
+        console.warn(resp)
+     })
+    }
+  },
+  updateBroker(item,_id){
+      Vue.axios.put('https://backend-bikex.herokuapp.com/api/broker/'+ _id) 
+     .then((resp)=>{
+       this.editBroker=null
+        console.warn(resp)
+     })
+    },
   mounted()
   {
     Vue.axios.get('https://backend-bikex.herokuapp.com/api/broker')
@@ -100,6 +118,7 @@ export default {
   }
   
 }
+
 </script>
 
 <style>
